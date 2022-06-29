@@ -1,0 +1,33 @@
+{
+  "name": "react-uyi",
+  "version": "1.0.0",
+  "description": "high level react hooks library (uyi: use your imagination)",
+  "main": "lib/index.js",
+  "module": "es/index.js",
+  "scripts": {
+    "build": "npx tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/librz/react-uyi.git"
+  },
+  "keywords": [
+    "uyi",
+    "hooks",
+    "react"
+  ],
+  "author": "librz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/librz/react-uyi/issues"
+  },
+  "homepage": "https://github.com/librz/react-uyi#readme",
+  "dependencies": {
+    "@types/react": "^18.0.14",
+    "react": "^18.2.0",
+    "react-use": "^17.4.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  }
+}
